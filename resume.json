@@ -1,0 +1,301 @@
+{
+  "basics": {
+    "name": "Pavel Redics",
+    "label": "Junior Web Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/1/005/0b0/246/29e93ec.jpg",
+    "email": "pavel.redics@gmail.com",
+    "phone": "(079) 699 59 235",
+    "website": "",
+    "summary": "Passionate Full Stack Web developer, recently graduated from Makers Academy. Always loved technology and maths. And now, after going through Makers Academy, I've got knowledge on how to solve real problems using modern software development technics. ",
+    "location": {
+      "address": "17 Samuel Street",
+      "postalCode": "SE18 5LQ",
+      "city": "London",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "palyrex",
+        "url": "https://github.com/palyrex/"
+      },
+      {
+        "network": "Twitter",
+        "username": "@palyrex",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Makers Academy",
+      "position": "Student",
+      "website": "http://www.makersacademy.com/",
+      "startDate": "2014-10-27",
+      "endDate": "",
+      "summary": "12 Week immersive, highly selective, web development bootcamp. Focused on teaching best modern development practices and agile methodology.",
+      "highlights": [
+        "Ruby, Ruby on Rails",
+        "Javascript, Node.js",
+        "TDD & BDD",
+        "Pair programming",
+        "Agile & Scrum methodology"
+      ]
+    },
+    {
+      "company": "School of English",
+      "position": "Student",
+      "website": "http://www.princescollege.com/",
+      "startDate": "2011-10-03",
+      "endDate": "2013-01-21",
+      "summary": "Full time English course",
+      "highlights": [
+        "C1 level"
+      ]
+    },
+    {
+      "company": "The Executive Committee of Irpin City Council, Ukraine",
+      "position": "Legal Assistant",
+      "website": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-01-30",
+      "summary": "University working practive. ",
+      "highlights": [
+        "Prepared requests to the address bureau about debtor's place of residence",
+        "Worked with the Unified state register of executive proceedings: the denial of registering, the end of executive proceedings"
+      ]
+    },
+    {
+      "company": "Irpin City Court, Ukraine",
+      "position": "Judge assistant",
+      "website": "",
+      "startDate": "2008-11-02",
+      "endDate": "2009-01-31",
+      "summary": "University working practice",
+      "highlights": [
+        "Preparing cases for trial in court regarding family issues",
+        "Took part in the proceedings regarding corporative relations between companies ",
+        "Prepared and file documents for storage in the archive"
+      ]
+    },
+    {
+      "company": "State tax service administration, Ukraine",
+      "position": "Tax officer assistant",
+      "website": "",
+      "startDate": "2008-05-01",
+      "endDate": "2008-08-10",
+      "summary": "University working practice",
+      "highlights": [
+        "Took part in making decision about conduct site inspection",
+        "Register taxpayers in subordinated territory",
+        " Checking the timely and accurate calculation and payment of taxes and fees"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "10:10",
+      "position": "Web developer",
+      "website": "http://www.1010global.org/uk",
+      "startDate": "2015-01-16",
+      "endDate": "2015-03-10",
+      "summary": "Developing app in team of four developers. Main feature of the app is to help user assess potential roof for installing solar panels and output from them.",
+      "highlights": [
+        "We using variety of devices to make sure that our app is cross-platform",
+        "idea of app is to encourage and inspire wide range of people to consider setting up environmentally-friendly community energy projects that take some of the monopoly away from large energy companies.",
+        "Current state of app present at http://look-up-production.herokuapp.com/"
+      ]
+    },
+    {
+      "organization": "Kyokushin karate Ukraine",
+      "position": "Coach",
+      "website": "",
+      "startDate": "2008-09-01",
+      "endDate": "2011-04-20",
+      "summary": "Teaching kids and teenagers martial arts.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Makers Academy",
+      "area": "Wed development",
+      "studyType": "Full time",
+      "startDate": "2014-10-27",
+      "endDate": "2015-01-30",
+      "gpa": "",
+      "courses": [
+        "Agile",
+        "TDD & BDD",
+        "Pair programming",
+        "Team work",
+        "Ruby, Ruby on Rails, Sinatra",
+        "Javascript, Node.js, jQuery",
+        "PostgreSQL",
+        "Object oriented programming"
+      ]
+    },
+    {
+      "institution": "School of English",
+      "area": "English course",
+      "studyType": "Full time",
+      "startDate": "2011-10-03",
+      "endDate": "2013-01-21",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "National State Tax Service University of Ukraine",
+      "area": "Economic and Intellectual Property Law",
+      "studyType": "Masters Degree (Honours)",
+      "startDate": "2010-09-01",
+      "endDate": "2011-06-09",
+      "gpa": "",
+      "courses": [
+        "Patent Law",
+        "Economic Law and Process",
+        "Corporate Law"
+      ]
+    },  
+    {
+      "institution": "National State Tax Service University of Ukraine",
+      "area": "Finance Law",
+      "studyType": "Bachelor Degree (Honours)",
+      "startDate": "2006-09-01",
+      "endDate": "2010-06-24",
+      "gpa": "",
+      "courses": [
+        "Finance Law",
+        "Theory of Law and State",
+        "Professional ethics",
+        "Banking Law"
+      ]
+    },
+    {
+      "institution": "Military Institute of Taras Shevchenko National University of Kyiv",
+      "area": "Financial management of the military unit",
+      "studyType": "Student",
+      "startDate": "2008-09-01",
+      "endDate": "2010-08-23",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Ruby", 
+        "Javascript", 
+        "Python"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Sinatra",
+        "Ruby on Rails",
+        "AngularJS",
+        "ExpressJS",
+        "Foundation",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        " MongoDB"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": [
+        "Rspec",
+        " Cucumber",
+        "Capybara",
+        "Jasmine",
+        "Karma",
+        "Selenium"
+      ]
+    },
+    {
+      "name": "Other techs",
+      "level": "",
+      "keywords": [
+        "NodeJS",
+        "jQuery",
+        "Git/Github",
+        "Heroku",
+        "AWS"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "level": "",
+      "keywords": [
+        "Agile",
+        "TDD",
+        "Pair programming"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency "
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Photography",
+      "keywords": [
+        "Portrait",
+        "Landscape",
+        "Panoramic"
+      ]
+    },
+    {
+      "name": "Coding",
+      "keywords": [
+        "Coderbyte",
+        "ProjectEuler",
+        "API"
+      ]
+    },
+    {
+      "name": "Martial arts & sports",
+      "keywords": [
+        "Kyokushin ",
+        "Kickboxing",
+        "Running long distance",
+        "Gym",
+        "Swimming"
+      ]
+    },
+    {
+      "name": "Constant learning",
+      "keywords": [
+        "Udacity",
+        "Coursera",
+        "Web"
+      ]
+    }
+  ],
+  "references": []
+}
